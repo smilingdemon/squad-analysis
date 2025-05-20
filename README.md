@@ -21,14 +21,17 @@ If desired the title and subtitle of the image can also be tweaked in this secti
 In the input section the colour palette is also definied, if colours want to be adjusted this is the easiest place to do it. If you want to change which colours are used where this is done in the main plotting section. For which colours are assigned to different squad status this can be changed be editing the colour palette references in the *status_colours* and *plot_key* variables.
 
 The current colour palette is as follows:
-<p style="background-color:#000000">Background - Used for the image background.</p>
-<p style="background-color:#FFFFFF; color:#333">Foreground - Used for the main text.</p>
-<p style="background-color:#999999; color:#333">cl_secondary - Used for subtitles and expiring contracts.</p>
-<p style="background-color:#d61f34; color:#fff">cl_alt_1 - Used for position boxes and new signings.</p>
-<p style="background-color:#3A86FF; color:#fff">cl_alt_2 - Used for loans in.</p>
-<p style="background-color:#FFBE0B; color:#333">cl_alt_3 - Used for loans out.</p>
-<p style="background-color:#3EC300; color:#333">cl_alt_4 - Currently unused.</p>
-<p style="background-color:#595959; color:#fff">cl_alt_5 - Currently unused.</p>
+
+- cl_background - Used for the image background.
+- cl_foreground - Used for the main text.
+- cl_secondary - Used for subtitles and expiring contracts.
+- cl_alt_1 - Used for position boxes and new signings.
+- cl_alt_2 - Used for loans in.
+- cl_alt_3 - Used for loans out.
+- cl_alt_4 - Currently unused.
+- cl_alt_5 - Currently unused.
+
+![Image showing the colour palette used](SquadDepthPalette.png)
 
 The fonts can also be changed by altering the *title_font* and *body_font* variables in the input section, they should reference a font installed on your system, more info on this can be found [here](https://matplotlib.org/stable/api/font_manager_api.html#).
 
