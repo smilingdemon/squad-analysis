@@ -1,9 +1,6 @@
 ﻿First Name,Last Name,Date of Birth,Position,Contract Expiry,Status
 Dimitar,Mitov,22/01/1997,GK,2027,N
-Ross,Doohan,29/03/1998,GK,2025,N
-Tom,Ritchie,27/01/2003,GK,2025,N
 Kristers,Tobers,13/12/2000,RCB,2028,N
-Alfie,Dorrington,20/04/2005,RCB,2025,I
 Mats,Knoester,19/11/1998,LCB,2027,N
 Gavin,Molloy,19/10/2001,LCB,2027,N
 Jack,Milne,10/02/2003,RCB,2029,N
@@ -14,14 +11,10 @@ Ante,Palaversa,06/04/2000,RDM,2027,N
 Sivert Heltne,Nilsen,02/10/1991,LDM,2027,N
 Dante,Polvara,21/06/2000,RDM,2026,N
 Graeme,Shinnie,04/08/1991,LDM,2026,N
-Jamie,McGrath,30/09/1996,AM,2025,N
 Leighton,Clarkson,19/10/2001,LDM,2027,N
-Jeppe,Okkels,27/07/1999,LW,2025,I
 Topi,Keskinen,07/03/2003,LW,2028,N
 Shayden,Morris,30/03/2002,RW,2026,N
 Vicente,Besuijen,10/04/2001,RW,2026,N
-Kevin,Nisbet,03/08/1997,ST,2025,I
-Oday,Dabbagh,12/03/1998,ST,2025,I
 Pape Habib,Gueye,20/09/1999,AM,2026,N
 Ester,Sokler,06/04/1999,ST,2026,N
 Peter,Ambrose,06/10/2002,ST,2027,N
@@ -34,3 +27,4 @@ Nicolas,Milanovic,14/11/2001,RW,2028,S
 Alfie,Bavidge,04/11/2006,ST,2026,N
 Fletcher,Boyd,26/01/2008,AM,2027,N
 Adam,Emslie,02/07/2005,LW,2026,N
+Nicholas,Suman,28/02/2000,GK,2027,S
