@@ -1,7 +1,7 @@
 ﻿First Name,Last Name,Date of Birth,Position,Contract Expiry,Status
 Dimitar,Mitov,22/01/1997,GK,2027,N
 Kristers,Tobers,13/12/2000,RCB,2028,N
-Mats,Knoester,19/11/1998,LCB,2027,N
+Mats,Knoester,19/11/1998,LCB,2029,N
 Gavin,Molloy,19/10/2001,LCB,2027,N
 Jack,Milne,10/02/2003,RCB,2029,N
 Jack,MacKenzie,04/07/2000,LB,2025,N
@@ -28,3 +28,4 @@ Alfie,Bavidge,04/11/2006,ST,2026,N
 Fletcher,Boyd,26/01/2008,AM,2027,N
 Adam,Emslie,02/07/2005,LW,2026,N
 Nicholas,Suman,28/02/2000,GK,2027,S
+Emmanuel,Gyamfi,23/07/2004,LB,2029,S
